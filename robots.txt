@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /Los_Angeles_Harbor_Handyman/ai_to_google/
 Disallow:
-Sitemap: https://greg-cc.github.io/Los_Angeles_Harbor_Handyman/ai_to_google/sitemap6.xml
+Sitemap: https://greg-cc.github.io/sitemap.xml
